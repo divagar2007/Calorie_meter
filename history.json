@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2026-04-29 18:53:33",
+        "food": "Egg roast",
+        "calories": 1000.0,
+        "grams": 50.0,
+        "cal_per_gram": 20.0
+    },
+    {
+        "date": "2026-04-29 18:55:26",
+        "food": "Chicken Grill",
+        "calories": 3000.0,
+        "grams": 100.0,
+        "cal_per_gram": 30.0
+    },
+    {
+        "date": "2026-04-29 19:09:56",
+        "food": "Matton",
+        "calories": 7500.0,
+        "grams": 150.0,
+        "cal_per_gram": 50.0
+    },
+    {
+        "date": "2026-04-29 19:21:19",
+        "food": "Masroom",
+        "calories": 1200.0,
+        "grams": 120.0,
+        "cal_per_gram": 10.0
+    },
+    {
+        "date": "2026-10-26 19:04:41",
+        "food": "fish",
+        "calories": 5000.0,
+        "grams": 100.0,
+        "cal_per_gram": 50.0
+    }
+]
